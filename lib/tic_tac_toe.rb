@@ -84,6 +84,10 @@ class TicTacToe
     end 
     winner
   end 
+  
+  def full? 
+    
+  end 
    
 end 
 
