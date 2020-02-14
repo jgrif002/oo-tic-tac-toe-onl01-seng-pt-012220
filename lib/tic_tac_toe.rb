@@ -53,7 +53,6 @@ class TicTacToe
        else[index] = " "
          counter += 0
        end 
-     end 
    end 
    
    
