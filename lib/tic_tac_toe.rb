@@ -86,9 +86,11 @@ class TicTacToe
   end 
   
   def full? 
-    if turn_count == 9 
-      return "Cats Game!"
-    end 
+    if turn_count == 9
+  end 
+  
+  def draw?
+    full? && !won?
   end 
    
 end 
