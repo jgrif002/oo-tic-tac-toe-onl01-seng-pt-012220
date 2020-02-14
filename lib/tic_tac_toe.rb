@@ -106,7 +106,7 @@ class TicTacToe
     
     if winner
       puts "Congratulations #{winner}!"
-    end 
+    else draw
   end 
    
 end 
