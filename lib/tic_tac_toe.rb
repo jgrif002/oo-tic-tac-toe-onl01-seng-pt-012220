@@ -51,7 +51,7 @@ class TicTacToe
        if index == "X" || "O"
          counter += 1 
        else
-         counter += 0
+         counter
        end 
      end
      counter 
