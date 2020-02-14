@@ -50,7 +50,7 @@ class TicTacToe
      @board.each do |index|
        if[index] == "X" || "O"
          counter += 1 
-       else[index] = " "
+       else
          counter += 0
        end 
    end 
