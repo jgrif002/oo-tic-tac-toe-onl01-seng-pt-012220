@@ -53,6 +53,7 @@ class TicTacToe
        else
          counter += 0
        end 
+     end 
    end 
    
    
